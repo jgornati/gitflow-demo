@@ -15,6 +15,7 @@ class App extends Component {
         </p>
           <h4>hola</h4>
           <a href="http://google.com">Google</a>
+este teclado es malisimo
       </div>
     );
   }
