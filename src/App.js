@@ -14,6 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
           <h4>hola</h4>
+          <a href="http://google.com">Google</a>
       </div>
     );
   }
